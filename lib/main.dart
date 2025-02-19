@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Conversor de moedas'),
+      home: const MyHomePage(title: 'Conversor USD para BRL'),
     );
   }
 }
